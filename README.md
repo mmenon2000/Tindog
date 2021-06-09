@@ -1,2 +1,1 @@
-# Tindog
-Small project using(Start Of Bootstrap)
+TinDog Starting Files
